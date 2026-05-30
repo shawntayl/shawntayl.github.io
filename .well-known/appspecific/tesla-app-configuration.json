@@ -1,5 +1,5 @@
 {
   "allowed_origins": [
-    "https://your-home-assistant-external-url.com"
+    "https://sgt-ha.duckdns.org"
   ]
 }
